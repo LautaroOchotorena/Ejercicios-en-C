@@ -1,6 +1,7 @@
 Esta es una práctica de la materia Herramientas Computacionales para Matemática Aplicada, una optativa de la carrera.
 
-Los enunciados de los ejercicios se pueden leer en "Práctica 4 - Elementos de programación en C"
+Los enunciados de los ejercicios se pueden leer en "Práctica 4 - Elementos de programación en C".
+Seleccioné sólo algunos ejercicios, los cuales considero que son los de mayor importancia.
 Estos son algunos de los ejercicios resueltos:
 
 Los archivos tienen su compilación ya hecha
