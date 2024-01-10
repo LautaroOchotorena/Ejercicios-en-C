@@ -1,3 +1,4 @@
+# Ejercicios en C
 Esta es una práctica de la materia Herramientas Computacionales para Matemática Aplicada, una optativa de la carrera.
 
 Los **enunciados de los ejercicios** se pueden leer en [Práctica 4 - Elementos de programación en C](https://github.com/LautaroOchotorena/Ejercicio-en-C/blob/main/Pr%C3%A1ctica%204%20-%20Elementos%20de%20programaci%C3%B3n%20en%20C.pdf).
