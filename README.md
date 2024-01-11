@@ -12,4 +12,4 @@ El [ejercicio 8](https://github.com/LautaroOchotorena/Ejercicio-en-C/blob/main/E
 El [ejercicio 12](https://github.com/LautaroOchotorena/Ejercicio-en-C/blob/main/Ejercicio12.c) calcula y grafica series de Fourier. La resolución analítica de por qué se usan esos b_k está hecho en [Ejercicio12.jpg](https://github.com/LautaroOchotorena/Ejercicio-en-C/blob/main/Ejercicio%2012.jpg).<br>
 
 **Requerimientos:**<br>
-C, xmgrace.
+C y Xmgrace.
